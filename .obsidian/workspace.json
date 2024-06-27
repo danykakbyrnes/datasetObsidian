@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Land Cover Clusters, 2010.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Land Cover Clusters, 2010.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Global Land Cover Clusters, 2010.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Global Land Cover Clusters, 2010.md"
+                "file": "README.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "5794fa815f048c80",
   "lastOpenFiles": [
-    "Caravan - A global community dataset for large-sample hydrology.md",
     "Global Land Cover Clusters, 2010.md",
+    "Caravan - A global community dataset for large-sample hydrology.md",
     "Global Wastewater Treatment Percentages.md",
     "README.md",
     "Gridded Livestock, 2010.md",
