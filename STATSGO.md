@@ -1,0 +1,1 @@
+Soil Survey Staff, Natural Resources Conservation Service, United States Department of Agriculture. U.S. General Soil Map (STATSGO2). Available online at https://sdmdataaccess.sc.egov.usda.gov. Accessed 06/28/2024.

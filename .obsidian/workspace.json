@@ -14,8 +14,57 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "dbb597eba8da31ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repository - World Data Centre for Soils.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2116af41e5ad5436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NCSS Soil Characterization Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52b6f66a66528bb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSURGO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cd9dc8e0429d14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Soil Information Service Soil Properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World Soil Information Service Soil Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World Soil Information Service Soil Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World Soil Information Service Soil Properties.md"
+              }
             }
           }
         ]
@@ -138,18 +191,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72a9a7c3abe6965c",
+  "active": "50c7749a8ed48e87",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "SSURGO.md",
+    "STATSGO.md",
+    "NCSS Soil Characterization Data.md",
+    "World Soil Information Service Soil Properties.md",
+    "SoilGrids soil properties.md",
+    "Repository - World Data Centre for Soils.md",
     "global.md",
     "Global Wastewater Treatment Percentages.md",
     "Caravan - A global community dataset for large-sample hydrology.md",
     "attributes.md",
     "Global Land Cover Clusters, 2010.md",
-    "SoilGrids soil properties.md",
     "Gridded Livestock, 2010.md",
-    "NCSS Soil Characterization Data.md",
     "Septic Tank Data, 2010.md",
-    "Repository - World Data Centre for Soils.md",
     "HydroWASTE.md",
     "livestock.md",
     "README.md",
