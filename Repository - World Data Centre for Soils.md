@@ -1,5 +1,5 @@
-#global #soil 
-- [[global]] [[soil]] data repository
+#global #soil #repository #geospatial 
+- [[global]] [[soil]] [[data repository]]
 - World Data Centre for Soils
 - Chemistry and physical soil properties
 - #ISRIC

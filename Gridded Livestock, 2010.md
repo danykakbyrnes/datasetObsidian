@@ -1,4 +1,4 @@
-#global #pollution #waterquality #human #livestock #agriculture
+#global #pollution #waterquality #human #livestock #agriculture #dataset #geospatial 
 
 - 5 arcminutes (~10km at equator) spatial resolution [[global]]
 - [[livestock]] densities

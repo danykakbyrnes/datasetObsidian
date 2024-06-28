@@ -1,4 +1,4 @@
-#global #soil 
+#global #soil  #dataset #geospatial 
  - [[soil]] properties and analyte concentrations
 	 - Bulk density
 	 - Soil organic carbon

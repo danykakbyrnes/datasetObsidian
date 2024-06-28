@@ -1,4 +1,4 @@
-#global #attributes #temporal #human
+#global #attributes #temporal #human #dataset #geospatial 
 
 - 100-meter spatial resolution global [[land cover]] /[[land use]]
 - annual basis from 2015-2019

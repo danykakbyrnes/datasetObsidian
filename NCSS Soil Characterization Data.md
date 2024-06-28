@@ -1,4 +1,4 @@
-#US  #soil
+#US  #soil #dataset
 - [[soil]] properties and analyte concentrations
 	- silt, clay, sand
 	- bulk density

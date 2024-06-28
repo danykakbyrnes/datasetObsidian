@@ -1,3 +1,4 @@
+ #dataset #geospatial 
  - [[soil]] properties and analyte concentrations
 	 - Bulk density
 	 - water retention

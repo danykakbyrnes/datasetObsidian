@@ -1,2 +1,2 @@
-
+ #dataset #geospatial 
 Soil Survey Staff, Natural Resources Conservation Service, United States Department of Agriculture. Soil Survey Geographic (SSURGO) Database. Available online at https://sdmdataaccess.sc.egov.usda.gov. Accessed 06/28/2024.
