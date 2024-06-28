@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b4463b7a0ebf781f",
+        "id": "994ab70788b680c3",
         "type": "tabs",
         "children": [
           {
-            "id": "72a1cb32a9ddf5ed",
+            "id": "72a9a7c3abe6965c",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "5794fa815f048c80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,15 +138,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5794fa815f048c80",
+  "active": "72a9a7c3abe6965c",
   "lastOpenFiles": [
-    "Global Land Cover Clusters, 2010.md",
-    "Caravan - A global community dataset for large-sample hydrology.md",
+    "global.md",
     "Global Wastewater Treatment Percentages.md",
-    "README.md",
+    "Caravan - A global community dataset for large-sample hydrology.md",
+    "attributes.md",
+    "Global Land Cover Clusters, 2010.md",
+    "SoilGrids soil properties.md",
     "Gridded Livestock, 2010.md",
+    "NCSS Soil Characterization Data.md",
     "Septic Tank Data, 2010.md",
+    "Repository - World Data Centre for Soils.md",
     "HydroWASTE.md",
+    "livestock.md",
+    "README.md",
     "HydroBASINS.md",
     "wateshed.md",
     "2024-06-19.md",

@@ -1,5 +1,5 @@
 #global #discharge #meteorological #watershed #attributes #temporal
-- [[global]] meteorological forcing data, catchment [[attributes]], and [[discharge]] timeseries for catchments
+- [[global]] meteorological forcing data, catchment attributes, and [[discharge]] timeseries for catchments
 - real data
 - [[watershed]] shapefiles
 - _csv_ and _netcdf_ for timeseries data
