@@ -11,8 +11,12 @@
             "id": "72a9a7c3abe6965c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Septic Tank Data, 2010.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Repository - IPUMS National Historical Geographic Information System (NHGIS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Repository - IPUMS National Historical Geographic Information System (NHGIS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Repository - IPUMS National Historical Geographic Information System (NHGIS).md"
+              }
             }
           }
         ]
@@ -138,18 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72a9a7c3abe6965c",
+  "active": "b9e051de65e1c353",
   "lastOpenFiles": [
+    "Repository - World Data Centre for Soils.md",
+    "Repository - IPUMS National Historical Geographic Information System (NHGIS).md",
+    "Septic Tank Data, 2010.md",
+    "SoilGrids soil properties.md",
     "World Soil Information Service Soil Properties.md",
     "STATSGO.md",
     "SSURGO.md",
-    "SoilGrids soil properties.md",
     "NCSS Soil Characterization Data.md",
     "Gridded Livestock, 2010.md",
     "Global Land Cover Clusters, 2010.md",
     "Caravan - A global community dataset for large-sample hydrology.md",
-    "Repository - World Data Centre for Soils.md",
-    "Septic Tank Data, 2010.md",
     "Repository - Earth Engine Data Catalogue.md",
     "README.md",
     "HydroWASTE.md",
